@@ -1,0 +1,76 @@
+.nav-bg {
+    background-color: rgb(255, 255, 255)! important;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.navpad {
+    width:50%;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+  }
+
+  .nav-item {
+    color: white;
+    padding: 20px;
+ 
+}
+
+.img1 {
+    width: 20%;
+    height: auto;
+    float: right;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+}
+
+.number {
+    padding-top: 15px;
+    list-style: none;
+
+}
+
+.logo {
+    max-height: 120px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .button-center {
+    text-align:center
+  }
+
+
+
+  .main-footer {
+    width: 100%;
+    height: 4em;
+
+  }
+.social {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  .right{
+    float: right;
+
+  }
+
+ .link {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+
+ }
+
+ .unsub {
+     text-align: center;
+     padding-bottom: 1em;
+ }
+
+ 
